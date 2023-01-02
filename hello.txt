@@ -8,4 +8,4 @@ hello zxx! hello git!
 hello zxx! hello git!
 hello zxx! hello git!
 hello zxx! hello git!
-hello zxx! hello git!
+hello zxx! hello git! host-fix test
